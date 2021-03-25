@@ -2,7 +2,7 @@ FROM ubuntu:18.04
 
 LABEL maintainer="Tomohisa Kusano <siomiz@gmail.com>"
 
-ENV VNC_SCREEN_SIZE 1024x768
+ENV VNC_SCREEN_SIZE 400x949
 
 COPY copyables /
 
